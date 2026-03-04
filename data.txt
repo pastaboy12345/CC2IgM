@@ -1,7 +1,6 @@
-Let's make a game!
-CC2IgM
-Cookie Clicker IGM Edition 2.0
-by bobea
+title: CC2IgM
+author: PastaBoy12345
+desc: Cookie Clicker IGM Edition 2.0
 
 resources are visible by default
 buildings are visible by default

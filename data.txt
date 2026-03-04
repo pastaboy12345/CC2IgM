@@ -1,3 +1,4 @@
+Let's make a game!
 title: CC2IgM
 author: PastaBoy12345
 desc: Cookie Clicker IGM Edition 2.0

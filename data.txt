@@ -1,0 +1,15 @@
+Let's make a game!
+CC2IgM
+Cookie Clicker IGM Edition 2.0
+by bobea
+
+resources are visible by default
+buildings are visible by default
+
+*resource cookies
+name: Cookies
+
+*clicker cookie
+name: Cookie
+produces: cookies
+production: 1
